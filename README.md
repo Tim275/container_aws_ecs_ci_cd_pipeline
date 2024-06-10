@@ -12,6 +12,6 @@ This project, named "nodejs-ssl-server," It utilizes a CI/CD pipeline to automat
 
 
 ![alt text](images/image.png)
-![alt text](images/image.png)
+![alt text](images/image-1.png)
 ![alt text](images/image-2.png)
 ![alt text](images/image-3.png)
